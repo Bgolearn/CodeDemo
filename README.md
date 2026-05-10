@@ -1,12 +1,12 @@
-This repository provides code demonstrations, tutorials, and datasets for illustrating the application of Bgolearn in materials design and Bayesian optimization.
-
-🎥 Tutorial Video: [BiliBili](https://m.bilibili.com/video/BV1LTtLeaEZp)
 
 
 
 # CodeDemo
 
-Tutorials and example notebooks for Bgolearn.
+
+This repository provides code demonstrations, tutorials, and datasets for illustrating the application of Bgolearn in materials design and Bayesian optimization.
+
+🎥 Tutorial Video: [BiliBili](https://m.bilibili.com/video/BV1LTtLeaEZp)
 
 
 ## Installation
